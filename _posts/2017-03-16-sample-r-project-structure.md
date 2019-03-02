@@ -1,6 +1,7 @@
 ---
 title: A sample R project structure
 author: manos_parzakonis
+published : true
 excerpt: Kickstarting an R project with reproducibility in mind. Sample folder structure and organization.
 categories:
 - measure
